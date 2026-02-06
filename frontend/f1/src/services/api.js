@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://events-6-j7cr.onrender.com",
+  baseURL: "https://events-3-pcgs.onrender.com",
   withCredentials: true,
 });
 
